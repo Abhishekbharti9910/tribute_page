@@ -1,0 +1,49 @@
+*{
+    background-color:#730d1b;
+    color: #dfd5c0;
+      font-size: 20px;
+      text-shadow:
+          0.07em 0 black,
+          0 0.07em black,
+          -0.07em 0 black,
+          0 -0.07em black;
+  }
+  #img-div{
+    width:100vw;
+    height:auto;
+  }
+  
+  #image{
+     margin:20px;
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    width:100%;
+    border-radius:20px;
+  }
+  #title{
+   margin:20px auto;
+    width:50%;
+    color:#a49f94;
+  }
+  #img-caption{
+    text-align:justify;
+     margin:20px;
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  #tribute-info p{
+    color:#a49f94;
+  }
+  #tribute-link button{
+    background-color:#857474;
+  }
+
+    .powers{
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+    }
